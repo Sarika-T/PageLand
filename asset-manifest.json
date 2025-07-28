@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PageLand/static/css/main.e3d9cea0.css",
+    "main.js": "/PageLand/static/js/main.26589e55.js",
+    "static/js/453.96453769.chunk.js": "/PageLand/static/js/453.96453769.chunk.js",
+    "static/media/logo.svg": "/PageLand/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PageLand/index.html",
+    "main.e3d9cea0.css.map": "/PageLand/static/css/main.e3d9cea0.css.map",
+    "main.26589e55.js.map": "/PageLand/static/js/main.26589e55.js.map",
+    "453.96453769.chunk.js.map": "/PageLand/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d9cea0.css",
+    "static/js/main.26589e55.js"
+  ]
+}
