@@ -1,0 +1,25 @@
+[
+    {
+      "type": "homepage",
+      "props": {
+        "heading": "Welcome to Page 1",
+        "subtitle": "This is the hero section",
+        "ctaLabel": "Get Started",
+        "ctaUrl": "#",
+        "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdceZfJUULk1m7RET0mQgPSur04PLxPN5rg&s"
+      }
+    },
+    {
+      "type": "content",
+      "props": {
+        "heading": "Left Content",
+        "subtitle": "Some description",
+        "ctaLabel": "Learn More",
+        "ctaUrl": "#",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaSvqsq8fW2JhHvciLN4zDYDoaxu39Cw0UWQ&s"
+      }
+    }
+]
+  
+
+  

@@ -1,0 +1,24 @@
+[
+    {
+      "type": "homepage",
+      "props": {
+        "heading": "Page 2 Hero",
+        "subtitle": "Subtitle text here",
+        "ctaLabel": "Sign Up",
+        "ctaUrl": "#",
+        "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA4hKbAA0yOvqPuYtmR8i7A_2FGynoMfNTw&s"
+      }
+    },
+    {
+      "type": "last",
+      "props": {
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA4hKbAA0yOvqPuYtmR8i7A_2FGynoMfNTw&s",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA4hKbAA0yOvqPuYtmR8i7A_2FGynoMfNTw&s",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA4hKbAA0yOvqPuYtmR8i7A_2FGynoMfNTw&s",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyA4hKbAA0yOvqPuYtmR8i7A_2FGynoMfNTw&s"
+        ]
+      }
+    }
+]
+  
